@@ -5,9 +5,9 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+disqus: thienchau
+google_analytics: thienchau
+title: thienchau
 
 defaults:
   -
@@ -18,14 +18,14 @@ defaults:
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
+  name: thienchau
+  email: email@thienchau.dev
+  github: thienchau
+  twitter: thienchau
+  pinterest: thienchau
+  linkedin: thienchau
   bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  email_md5: 0763769757ea32a51b29807bf08b6101
 
 rss_path: feed.xml
 categories_path: categories.html
