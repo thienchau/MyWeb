@@ -14,9 +14,9 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: thienchau
 
-description: Stylish Jekyll Theme
+description: thienchau
 author:
   name: thienchau
   email: email@thienchau.dev
@@ -24,7 +24,7 @@ author:
   twitter: thienchau
   pinterest: thienchau
   linkedin: thienchau
-  bio: Your stylish, minimalist theme!
+  bio: First, solve the problem. Then, write the code
   email_md5: 0763769757ea32a51b29807bf08b6101
 
 rss_path: feed.xml
